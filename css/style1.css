@@ -16,5 +16,5 @@ display:flex;
 .childdiv:nth-of-type(2){
 
 
-  background-color:green !important;
+  background-image: url("../download.jpeg") !important;
 }
