@@ -1,0 +1,43 @@
+<html>
+    <head>
+      <title>HOME</title>
+        <link rel="stylesheet" href="css/style.css"></link>
+    </head>
+  <body>
+   <div class="one">
+       <div class="two">
+           <div class="three">
+               <h1 class="four">First Heading</h1>
+           </div>
+       </div>
+   </div>
+    <div class="one">
+       <div class="two">
+           <div class="three">
+               <h1 class="four">Second Heading</h1>
+           </div>
+       </div>
+   </div>
+    <div class="one">
+       <div class="two">
+           <div class="three">
+               <h1 class="four">Third Heading</h1>
+           </div>
+       </div>
+   </div>
+    <div class="one">
+       <div class="two">
+           <div class="three">
+               <h1 class="four">Fourth Heading</h1>
+           </div>
+       </div>
+   </div>
+   <div class="one">
+       <div class="two">
+           <div class="three">
+               <h1 class="four">Fifth Heading</h1>
+           </div>
+       </div>
+   </div>
+  </body>
+</html>
