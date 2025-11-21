@@ -1,4 +1,4 @@
-.maindiv{
+.divmain{
 display:flex;
   
 }
@@ -7,13 +7,13 @@ display:flex;
 .childdiv{
   width:50%;
   height:100%;
-  color:red;
-  background:15px solid red;
+  background-color:red;
+  bordersize:15px solid yellow;
 }
 
 
 .childdiv:nth-of-type(2){
 
-  color:yellow;
+
   background-color:green !importent;
 }
