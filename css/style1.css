@@ -1,6 +1,6 @@
 .divmain{
 display:flex;
-  
+  width:50%
 }
 
 
@@ -15,5 +15,5 @@ display:flex;
 .childdiv:nth-of-type(2){
 
 
-  background-color:green !importent;
+  background-color:green !important;
 }
