@@ -1,0 +1,15 @@
+.one .four{
+  color:red;
+}
+.one + .one .four{
+  color:blue;
+}
+.one + .one + .one .four{
+  color:green;
+}
+.one + .one + .one + .one .four{
+  color:orange;
+}
+.one + .one + .one + .one + .one .four{
+  color:yellow
+}
