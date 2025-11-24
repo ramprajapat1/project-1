@@ -21,13 +21,7 @@ repeat:no-repeat;
 
 
 @media (max-width: 576px){
-    .divmain{flex-direction: column;}
+    .divmain{grid-template-columns: 1fr;}
 
-  .childdiv{
-            width:100%;
-    height:50%;
-           }
-  .childdiv:nth-of-type(2){
-                          width:100%;
-  height:50%;}
+
 }
