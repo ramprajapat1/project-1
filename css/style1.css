@@ -22,6 +22,7 @@ repeat:no-repeat;
 
 @media(min-width: 576px){
 
-.divmain{flex-direction:colomn;
+.divmain{flex-direction:column;
+         
     }
 }
