@@ -20,9 +20,10 @@ repeat:no-repeat;
 }
 
 
-@media(min-width: 576){
+@media(max-width: 576){
 
-.divmain{flex-direction:colomn;}
+.divmain{flex-direction:colomn;
+        width:100%}
 
   
 }
