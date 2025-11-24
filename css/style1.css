@@ -25,9 +25,9 @@ repeat:no-repeat;
 
   .childdiv{
             width:100%;
-    height:50%
+    height:50%;
            }
   .childdiv:nth-of-type(2){
-                          width:100%
-  height:50%}
+                          width:100%;
+  height:50%;}
 }
