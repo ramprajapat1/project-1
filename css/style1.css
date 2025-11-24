@@ -23,9 +23,9 @@ repeat:no-repeat;
 @media (max-width: 576px){
     .divmain{flex-direction: column;}
 
-  .childdiv{flex-direction: column;
+  .childdiv{
             width:100%;
            }
-  .childdiv:nth-of-type(2){flex-direction: column;
+  .childdiv:nth-of-type(2){
                           width:100%}
 }
