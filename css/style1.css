@@ -21,7 +21,7 @@ repeat:no-repeat;
 
 
 @media (max-width: 576px){
-    .divmain{grid-template-columns: 1fr;}
+    .divmain{flex-background: column;}
 
 
 }
