@@ -25,4 +25,5 @@ repeat:no-repeat;
 
   .childdiv{flex-direction: column;
            }
+  .childdiv:nth-of-type(2){flex-direction: column;}
 }
