@@ -18,3 +18,11 @@ display:flex;
 repeat:no-repeat;
   background-image: url("../download.jpeg") !important;
 }
+
+
+@media(max-width: 576){
+
+.divmain{flex-direction:colomn;}
+
+  
+}
