@@ -22,9 +22,7 @@ repeat:no-repeat;
 
 @media (max-width: 576px){
 
-.divmain{flex-direction: column;
-         width:100%;
-        }
+
   .childdiv{flex-direction: column;
            }
 }
