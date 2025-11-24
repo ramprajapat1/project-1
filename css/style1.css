@@ -23,7 +23,7 @@ repeat:no-repeat;
 @media(max-width: 576px){
 
 .divmain{flex-direction:colomn;
-        width:100%}
+        width:100%;}
 
   
 }
