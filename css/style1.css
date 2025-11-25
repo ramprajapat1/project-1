@@ -21,5 +21,5 @@ repeat:no-repeat;
 
 
 @media screen and(max-width: 576px){
-    .divmain{flex-background: column;}
+    .divmain{flex-direction: column;}
 }
