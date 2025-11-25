@@ -24,4 +24,7 @@ repeat:no-repeat;
     .divmain{
       flex-direction: column;
     }
+  .childdiv{
+    width:100%;
+  }
 }
