@@ -6,6 +6,7 @@
 .logo{margin:0px;
        width:20%;
        height:10%;
+      display:flex;
         align-items:center;
 }
 .menu{
