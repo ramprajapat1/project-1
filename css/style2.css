@@ -8,23 +8,25 @@
 .logo{margin:0px;
        width:25%;
        height:100%;
-    background-color:black;
+       background-color:black;
+       border: 5px solid red;
   
 }
 .menu{
        width:75%;   
        pedding:10%;
        justify-content:center;
+       border: 5px solid red;
 }
 
 .logo a{width:100%;
-    height:100%;
-    display:flex;
-        justify-content:center;
+       height:100%;
+       display:flex;
+       justify-content:center;
    }
          
 .logo a img{width:auto;
-    height:auto; 
+            height:auto; 
             shape:circle;
    }
               
