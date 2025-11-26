@@ -3,20 +3,20 @@
        background-color: yellow;
         display:flex;
         margin:0px;
-        border: 5px solid red;
+    
       }
-.logo{margin:0px;
+.logo{
        width:25%;
        height:100%;
        background-color:black;
-       pedding:0px;
+
   
 }
 .menu{
        width:75%;   
-       pedding:0px;
+   
        justify-content:center;
-       border: 5px solid red;
+    
 }
 
 .logo a{width:100%;
