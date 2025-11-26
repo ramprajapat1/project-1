@@ -13,6 +13,7 @@
 .menu{
        width:75%;   
        pedding:10%;
+       justify-content:center;
 }
 
 .logo a{width:100%;
