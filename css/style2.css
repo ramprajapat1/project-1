@@ -26,6 +26,13 @@
        display:flex;  
 }
 
+.menu ul{display:flex;
+    
+}
+
+.menu ul a{
+          text-decoration:none;
+}
               
 body{
   margin:0px;
