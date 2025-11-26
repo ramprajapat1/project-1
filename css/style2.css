@@ -9,12 +9,12 @@
        width:25%;
        height:100%;
        background-color:black;
-  
+       pedding:0px;
   
 }
 .menu{
        width:75%;   
-       pedding:10%;
+       pedding:0px;
        justify-content:center;
        border: 5px solid red;
 }
