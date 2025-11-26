@@ -21,7 +21,8 @@
    }
          
 .logo a img{width:auto;
-    height:auto;    
+    height:auto; 
+            shape:circle;
    }
               
 body{
