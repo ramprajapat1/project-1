@@ -8,15 +8,7 @@
 .logo{
        width:25%;
        height:100%;
-       background-color:black;
-
-  
-}
-.menu{
-       width:75%;   
-   
-       justify-content:center;
-    
+       background-color:black;  
 }
 
 .logo a{width:100%;
@@ -29,6 +21,13 @@
             height:auto; 
             shape:circle;
    }
+.menu{
+       width:75%;   
+       display:flex;
+       justify-content:center;
+       
+}
+
               
 body{
   margin:0px;
