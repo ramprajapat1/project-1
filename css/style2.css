@@ -4,11 +4,10 @@
         display:flex;
       }
 .logo{
-       background-image: url("../download.jpeg");
-
+       width:20%;
 }
 .menu{
-       background-image: url("../download.jpeg");         
+       width:80%;    
 }
 
               
