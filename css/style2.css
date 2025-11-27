@@ -31,7 +31,9 @@
        width:100%;
        }
 
-.nevbar ul{display:flex;
+.nevbar ul{
+           margin:0px;
+           display:flex;
            list-style:none;
            width:100%;
            text-decoration:none;
