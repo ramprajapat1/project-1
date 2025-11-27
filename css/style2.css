@@ -24,15 +24,16 @@
 .menu{
        width:75%;   
        display:flex; 
-       background-color:green;
+       background-color:skyblue;
 }
 
 .nevbar ul{display:flex;
         text-decoration:none;
            pedding:10px;
+           list-style:none;
 }
 
-.nevbar a{
+.nevbar ul li a{
           text-decoration:none;
 }
               
