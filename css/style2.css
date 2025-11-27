@@ -26,11 +26,11 @@
        display:flex;  
 }
 
-.menu ul{display:flex;
+.nevbar ul{display:flex;
         text-decoration:none;
 }
 
-.menu a{
+.nevbar a{
           text-decoration:none;
 }
               
