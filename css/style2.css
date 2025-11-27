@@ -26,6 +26,9 @@
        display:flex; 
        background-color:skyblue;
 }
+.nevbar{
+       width:100%
+       }
 
 .nevbar ul{display:flex;
            list-style:none;
