@@ -27,6 +27,12 @@
        background-color:skyblue;
 }
 
+.menu .nevbar ul{display:flex;
+           list-style:none;
+           gap:20%;
+}
+
+
 .nevbar ul{display:flex;
            list-style:none;
            gap:100%;
