@@ -28,13 +28,13 @@
 }
 
 .nevbar ul{display:flex;
-        text-decoration:none;
-           pedding:30px;
+           text-decoration:none;
            list-style:none;
 }
 
 .nevbar ul li a{
           text-decoration:none;
+          pedding:30px;
 }
               
 body{
