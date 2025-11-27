@@ -28,6 +28,7 @@
 
 .nevbar ul{display:flex;
         text-decoration:none;
+           pedding:10px;
 }
 
 .nevbar a{
