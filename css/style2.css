@@ -19,11 +19,12 @@
          
 .logo a img{width:auto;
             height:auto; 
-            shape:circle;
+        
    }
 .menu{
        width:75%;   
-       display:flex;  
+       display:flex; 
+       background-color:green;
 }
 
 .nevbar ul{display:flex;
