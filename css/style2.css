@@ -29,7 +29,6 @@
 
 .nevbar ul{display:flex;
            list-style:none;
-           gap:100%;
            justify-content: space-around;
 }
 
