@@ -24,7 +24,7 @@
 .menu{
        width:75%;   
        display:flex; 
-       background-color:skyblue;
+       background-color:blue;
 }
 
 .nevbar ul{display:flex;
