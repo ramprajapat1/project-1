@@ -30,7 +30,7 @@
 .nevbar ul{display:flex;
            list-style:none;
            width:100%;
-           justify-content:space-evenly;
+           justify-content:space-between;
            padding:10px;
 }
 
