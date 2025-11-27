@@ -2,7 +2,7 @@
        height: 10%;
        background-color: yellow;
         display:flex;
-        margin:0px;
+       
     
       }
 .logo{
@@ -30,8 +30,9 @@
 .nevbar ul{display:flex;
            list-style:none;
            width:100%;
+           text-decoration:none;
            justify-content: space-between;
-           padding:10px 80px;
+       
 }
 
 
