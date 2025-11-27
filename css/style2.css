@@ -27,7 +27,7 @@
 }
 
 .menu ul{display:flex;
-    
+        text-decoration:none;
 }
 
 .menu a{
