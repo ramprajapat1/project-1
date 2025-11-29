@@ -3,7 +3,6 @@
        background-color: yellow;
         display:flex;
         overflow:hidden;
-        position:absolute;
        
       }
 .logo{
@@ -36,8 +35,7 @@
            list-style:none;
            text-decoration:none;
            justify-content: space-around;
-           font-size:1vw;
-           font-size:1vh;
+           
            position:absolute;
        
       
