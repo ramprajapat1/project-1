@@ -9,7 +9,7 @@
        width:25%;
        height:100%;
        background-color:black;  
-            overflow:hidden;
+           
 }
 
 .logo a{width:100%;
@@ -26,11 +26,11 @@
        width:75%;   
        display:flex; 
        background-color:skyblue;
-         overflow:hidden;
+
 }
 .nevbar{
        width:100%;
-            overflow:hidden;
+
        }
 
 .nevbar ul{
@@ -39,7 +39,10 @@
            text-decoration:none;
            justify-content: space-around;
            font-size:1%;
-               overflow:hidden;
+         font-size:1vh;
+         font-size:1vw;
+       
+              
        
       
 }
