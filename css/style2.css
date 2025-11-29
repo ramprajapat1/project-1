@@ -46,7 +46,7 @@
           text-decoration:none;
           color: green;
           justify-content:center;
-          min-width:(1.5vw,1.5vw);     
+          font-size:min(1.5vw,1.5vw);     
 }
               
 body{
