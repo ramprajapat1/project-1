@@ -45,9 +45,8 @@
 .nevbar ul li a{
           text-decoration:none;
           color: green;
-       position:absolute;
           justify-content:center;
-     
+          min-width:(1.5vw,1.5vw);     
 }
               
 body{
