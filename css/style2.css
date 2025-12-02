@@ -60,11 +60,5 @@
 }
        
 body{
-  margin:0px;
-}
-
-@media screen and (max-width: 576px)
-{
-  .header{height:7%;
-         background-color:red;}
+  margin:0;
 }
