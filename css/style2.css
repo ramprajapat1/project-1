@@ -32,22 +32,22 @@
   text-color:black;
   display: flex;
 }
-.menu .navbar{
+.menu .nevbar{
  width:100%;
  height:100%;
 }
-.menu .navbar ul {
+.menu .nevbar ul {
  width:100%;
  height:100%;
  display:flex;
  align-items:center;
  justify-content:space-around;
 }
-.menu .navbar ul li {
+.menu .nevbar ul li {
  list-style-type:none;
  padding-bottom:2%;
 }
-.menu .navbar ul li a{
+.menu .nevbar ul li a{
   text-decoration:none;
  color:black;
  font-size:1.5vw;
