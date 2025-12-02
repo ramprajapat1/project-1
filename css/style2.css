@@ -8,7 +8,6 @@
       }
 .logo{
        width:25%;
-       height:100%;
        background-color:black;  
            
 }
@@ -34,18 +33,18 @@
         height:100%;
        }
 
-.menu .nevbar ul{
+.menu.nevbar ul{
        width:100%;
         height:100%;
            display:flex;
-           text-decoration:none;
+          
        align-items:center;
            justify-content: space-around;
       
      
       
 }
-.menu .nevbar ul li{
+.menu.nevbar ul li{
                 list-style-type:none;
                 padding-bottom:2%;
     
@@ -55,12 +54,13 @@
 .menu .nevbar ul li a{
           text-decoration:none;
           color: green;
-          font-size:1.5vw;  
+          font-size:min(1.5vh,1.5vw);  
              position:absolute;
 }
               
 body{
-  margin:0px;
+  margin:0;
+       padding:0;
 }
 
 @media screen and (max-width: 576px)
