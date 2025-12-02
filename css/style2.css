@@ -55,7 +55,6 @@
 .menu .nevbar ul li a{
           text-decoration:none;
           color: green;
-          justify-content:center;
           font-size:min(1.5vw,1.5vw);  
              position:absolute;
 }
