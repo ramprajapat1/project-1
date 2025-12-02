@@ -35,12 +35,15 @@
 
 .nevbar ul{
            display:flex;
-           list-style:none;
            text-decoration:none;
            justify-content: space-around;
-           pedding-bottom:2%;
-          position:absolute;
       
+     
+      
+}
+.nevbar ul li{
+                list-style:none;
+                pedding-bottom:2%;
 }
 
 
@@ -48,7 +51,8 @@
           text-decoration:none;
           color: green;
           justify-content:center;
-          font-size:min(1.5vw,1.5vw);     
+          font-size:min(1.5vw,1.5vw);  
+          position:absolute;
 }
               
 body{
