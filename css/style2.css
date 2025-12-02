@@ -54,11 +54,11 @@
 .menu .nevbar ul li a{
           text-decoration:none;
           color: green;
-          font-size:min(1.5vh,1.5vw);  
+          font-size:1`.5vw;  
              position:absolute;
 }
               
-body{
+*{
   margin:0;
        padding:0;
 }
