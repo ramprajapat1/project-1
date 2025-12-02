@@ -28,12 +28,12 @@
        background-color:skyblue;
 
 }
-.menu.nevbar{
+.nevbar{
        width:100%;
         height:100%;
        }
 
-.menu.nevbar ul{
+.nevbar ul{
        width:100%;
         height:100%;
            display:flex;
@@ -44,14 +44,14 @@
      
       
 }
-.menu.nevbar ul li{
+.nevbar ul li{
                 list-style-type:none;
                 padding-bottom:2%;
     
 }
 
 
-.menu.nevbar ul li a{
+.nevbar ul li a{
           text-decoration:none;
           color: green;
           justify-content:center;
