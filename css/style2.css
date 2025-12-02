@@ -1,4 +1,3 @@
-
 .header{width:100%;
        height: 10%;
        background-color: yellow;
@@ -8,6 +7,7 @@
       }
 .logo{
        width:25%;
+       height:100%;
        background-color:black;  
            
 }
@@ -28,7 +28,7 @@
        background-color:skyblue;
 
 }
-.menu .nevbar{
+.menu.nevbar{
        width:100%;
         height:100%;
        }
@@ -37,9 +37,9 @@
        width:100%;
         height:100%;
            display:flex;
-          
+           text-decoration:none;
        align-items:center;
-           justify-content:space-around;
+           justify-content: space-around;
       
      
       
@@ -51,16 +51,16 @@
 }
 
 
-.menu .nevbar ul li a{
+.menu.nevbar ul li a{
           text-decoration:none;
           color: green;
-          font-size:1`.5vw;  
+          justify-content:center;
+          font-size:min(1.5vw,1.5vw);  
              position:absolute;
 }
               
-*{
-  margin:0;
-       padding:0;
+body{
+  margin:0px;
 }
 
 @media screen and (max-width: 576px)
