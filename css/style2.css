@@ -65,10 +65,10 @@ body{
 
 
 .nevbar ul li { position:relative; }
-.nevbar ul li:hover > ul { display:block; }
+.nevbar ul li:hover > ul { display:flex; }
 
 .nevbar ul ul { 
-  display:flex; 
+  display:none; 
   position:absolute; 
   background:#444; 
   top:100%; 
