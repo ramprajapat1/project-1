@@ -65,7 +65,7 @@ body{
 
 
 
-.nevbar li:hover > ul { display:block; }
+.nevbar ul li ul li:hover > ul { display:block; }
 
 .nevbar ul ul { 
   display:none; 
