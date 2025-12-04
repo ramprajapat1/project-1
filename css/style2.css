@@ -63,6 +63,17 @@ body{
   margin:0;
 }
 
+
+
+.nevbar ul li .submenu {
+  display: none;
+  position: absolute;
+  left: 0;
+  background-color: red;
+  width: 100%;
+  z-index: 1;
+}
+
 /* ---- SUBMENU DEFAULT HIDDEN ---- */
 .nevbar ul li .submenu {
     display: none;
