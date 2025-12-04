@@ -63,19 +63,6 @@ body{
   margin:0;
 }
 
-
-.nevbar ul li { position:relative; }
-.nevbar ul li:hover > ul { display:flex; }
-
-.nevbar ul ul { 
-  display:none; 
-  position:absolute; 
-  background:#444; 
-  top:100%; 
-  left:0;
-}
-
-
 /* ---- SUBMENU DEFAULT HIDDEN ---- */
 .nevbar ul li .submenu {
     display: none;
