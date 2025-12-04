@@ -64,6 +64,9 @@ body{
 }
 
 
+
+.nevbar li:hover > ul { display:block; }
+
 .nevbar ul ul { 
   display:none; 
   position:absolute; 
