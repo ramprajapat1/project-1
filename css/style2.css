@@ -68,7 +68,7 @@ body{
 .nevbar ul li:hover > ul { display:block; }
 
 .nevbar ul ul { 
-  display:none; 
+  display:flex; 
   position:absolute; 
   background:#444; 
   top:100%; 
