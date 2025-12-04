@@ -89,6 +89,6 @@ body{
 }
 
 /* ---- HOVER पर SUBMENU SHOW ---- */
-.nevbar ul li a:hover .submenu {
+.nevbar ul li:hover .submenu {
     display: block;
 }
