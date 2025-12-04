@@ -62,3 +62,16 @@
 body{
   margin:0;
 }
+
+
+
+
+.nevbar {
+  float: left;
+  overflow: hidden;
+}
+
+.menu a:hover, .nevbar:hover .submenu {
+  background-color: red;
+}
+
