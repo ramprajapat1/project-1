@@ -75,3 +75,12 @@ body{
   background-color: red;
 }
 
+
+.nevbar-content {
+  display: none;
+  position: absolute;
+  left: 0;
+  background-color: red;
+  width: 100%;
+  z-index: 1;
+}
