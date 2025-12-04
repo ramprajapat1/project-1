@@ -64,23 +64,3 @@ body{
 }
 
 
-
-
-.nevbar {
-  float: left;
-  overflow: hidden;
-}
-
-.menu a:hover, .nevbar:hover .submenu {
-  background-color: red;
-}
-
-
-.nevbar-content {
-  display: none;
-  position: absolute;
-  left: 0;
-  background-color: red;
-  width: 100%;
-  z-index: 1;
-}
