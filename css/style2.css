@@ -65,12 +65,14 @@ body{
 
 
 
+
+
 .nevbar ul li .submenu {
   display: none;
   position: absolute;
   left: 0;
   background-color: red;
-  width: 100%;
+  width: 30%;
   z-index: 1;
 }
 
