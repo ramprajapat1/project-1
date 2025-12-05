@@ -79,6 +79,7 @@
     list-style: none;
     padding: 5px 10px;
     text-align: left;
+ height:100%;
 }
 
 .nevbar ul li .submenu li a {
