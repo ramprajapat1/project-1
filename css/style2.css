@@ -64,10 +64,10 @@
   display: none;
   position: absolute;
   background-color: red;
-    min-width: 20%;
-    border: 1px solid #ccc;
-    padding: 5px 0;
-    z-index: 1;
+  width: 20%;
+  border: 1px solid #ccc;
+  /* padding: 5px 0; */
+  z-index: 1;
 }
 
 /* ---- SUBMENU ITEMS ---- */
