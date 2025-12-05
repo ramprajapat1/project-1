@@ -87,6 +87,7 @@
     position: relative;   /* important: aapki old absolute position se clash avoid karega */
  white-space:nowrap;
   overflow:hidden;
+ text-overflow:ellpsis;
 }
 
 /* ---- HOVER पर SUBMENU SHOW ---- */
