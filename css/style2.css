@@ -84,6 +84,7 @@
     font-size: 1vw;
     text-decoration: none;
     position: relative;   /* important: aapki old absolute position se clash avoid karega */
+ white-space:nowrap;
 }
 
 /* ---- HOVER पर SUBMENU SHOW ---- */
