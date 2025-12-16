@@ -59,8 +59,6 @@
 
 .nevbar ul li a{
  height:100%;
- align-items:center;
- justify-content:center;
           text-decoration:none;
           color: green;
           font-size:min(1.5vw,1.5vw);  
