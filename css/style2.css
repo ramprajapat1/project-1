@@ -63,7 +63,7 @@
           text-decoration:none;
           color: green;
           font-size:min(1.5vw,1.5vw);  
-      position:absolute;    
+        
 }
 
 .nevbar ul li .submenu {
@@ -95,7 +95,7 @@
     color: black;
     font-size: 1vw;
     text-decoration: none;
-    /* important: aapki old absolute position se clash avoid karega */
+    position:static !important;/* important: aapki old absolute position se clash avoid karega */
  white-space:nowrap;
  display:block;/*... dikhane ke liye*/
   overflow:hidden;
