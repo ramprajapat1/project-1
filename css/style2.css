@@ -50,7 +50,6 @@
 .nevbar ul li{
             position:relative;
  height:100%;
- display:flex;
                 list-style-type:none;
                 padding-bottom:2%;
     align-items:center;
@@ -104,3 +103,7 @@
 .nevbar ul li:hover .submenu {
     display: block;
 }
+
+
+
+
