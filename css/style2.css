@@ -39,7 +39,7 @@
        }
 
 .nevbar ul{
-            width:90%;
+            width:100%;
             height:100%;
             display:flex;
             text-decoration:none; 
@@ -48,30 +48,25 @@
       
 }
 .nevbar ul li{
-            position:relative;
- height:100%;
- display:flex;
                 list-style-type:none;
                 padding-bottom:2%;
-    align-items:center;
+    
 }
 
 
 .nevbar ul li a{
- height:100%;
- padding:10%;
           text-decoration:none;
           color: green;
           font-size:min(1.5vw,1.5vw);  
-        
+          position:absolute;
 }
 
 .nevbar ul li .submenu {
   display: none;
-  position: relative;
- top:100%;
+  position: absolute;
+ top:10%;
   background-color: red;
-  max-width: 100%;
+  max-width: 10%;
   height: auto;
  left:50%;
  transform: translateX(-50%);
@@ -88,14 +83,13 @@
     padding: 5px 10px;
     text-align: left;
  height:100%;
-
 }
 
 .nevbar ul li .submenu li a {
     color: black;
     font-size: 1vw;
     text-decoration: none;
-    position:static !important;/* important: aapki old absolute position se clash avoid karega */
+    position: relative;   /* important: aapki old absolute position se clash avoid karega */
  white-space:nowrap;
  display:block;/*... dikhane ke liye*/
   overflow:hidden;
@@ -106,28 +100,3 @@
 .nevbar ul li:hover .submenu {
     display: block;
 }
-
-
-
-
-
-
-
-/* 
-
-
-.header .menu{
-width:50%;
- background-color:white;
-}
-
-.header .menu .menubar{
- width:0%;
- height:0%;
-}
-.header .menu .mobilebar{
- width:100%;
- height:100%;
-}
-
- */
