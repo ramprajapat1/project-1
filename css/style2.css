@@ -39,7 +39,7 @@
        }
 
 .nevbar ul{
-            width:100%;
+            width:90%;
             height:100%;
             display:flex;
             text-decoration:none; 
@@ -48,17 +48,23 @@
       
 }
 .nevbar ul li{
+            position:relative;
+ height:100%;
+ display:flex;
                 list-style-type:none;
                 padding-bottom:2%;
-    
+    align-items:center;
 }
 
 
 .nevbar ul li a{
+ height:100%;
+ align-items:center;
+ justify-content:center;
           text-decoration:none;
           color: green;
           font-size:min(1.5vw,1.5vw);  
-          position:absolute;
+          position:static;
 }
 
 .nevbar ul li .submenu {
