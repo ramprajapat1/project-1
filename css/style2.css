@@ -88,13 +88,14 @@
     padding: 5px 10px;
     text-align: left;
  height:100%;
+  position: static; 
 }
 
 .nevbar ul li .submenu li a {
     color: black;
     font-size: 1vw;
     text-decoration: none;
-    position: static;   /* important: aapki old absolute position se clash avoid karega */
+    position: relative;   /* important: aapki old absolute position se clash avoid karega */
  white-space:nowrap;
  display:block;/*... dikhane ke liye*/
   overflow:hidden;
