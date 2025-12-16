@@ -58,12 +58,12 @@
 
 
 .nevbar ul li a{
- height:10%;
- padding:30%;
+ height:100%;
+ padding:10%;
           text-decoration:none;
           color: green;
           font-size:min(1.5vw,1.5vw);  
-         
+      position:absolute;    
 }
 
 .nevbar ul li .submenu {
