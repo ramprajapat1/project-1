@@ -95,7 +95,7 @@
     color: black;
     font-size: 1vw;
     text-decoration: none;
-    position: static!important;  /* important: aapki old absolute position se clash avoid karega */
+    /* important: aapki old absolute position se clash avoid karega */
  white-space:nowrap;
  display:block;/*... dikhane ke liye*/
   overflow:hidden;
