@@ -75,8 +75,8 @@
 .menu .menubar ul li .submenu {
   display: none;
   position: absolute;
-  top:70%;
-  left: 100%;
+  top:100%;
+  left: 50%;
   transform: translateX(-50%);
   background: magenta;
   border: 1px solid black;
