@@ -84,7 +84,6 @@
   height: auto;
   flex-direction:column;
   padding:5px 0;
-  z-index: 10;
 }
 
 .menu .menubar ul li .submenu li{
@@ -112,10 +111,7 @@
   display: block;
 }
 
-.menu .menubar ul .underline_current > a {
-    text-decoration: underline;
-    text-decoration-color: red;
-}
+
 
 @media (max-width: 576px) {
   .header {
