@@ -83,7 +83,7 @@
   transform: translateX(-50%);
   background: green;
   border: 1px solid black;
-  width: 800px;
+  width: 200px;
   height: auto;
   flex-direction:column;
   padding:5px 0;
