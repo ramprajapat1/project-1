@@ -8,13 +8,14 @@
   height: 10%;
   background-color: white;
   display:flex;
-  
+ border: 2px solid black; 
 }
 
 .logo {
   width: 25%;
   height: 100%;
   background-color: #98FF98;
+   border: 2px solid black; 
 }
 
 .logo a {
@@ -33,7 +34,7 @@
   width: 75%;
   height: 100%;
   background-color:#98FF98;
-  
+   border: 2px solid black; 
 }
 
 .menu .menubar {
@@ -82,7 +83,7 @@
   transform: translateX(-50%);
   background: green;
   border: 1px solid black;
-  width: 600px;
+  width: 200px;
   height: auto; 
   flex-direction:column;
   padding:5px 0;
