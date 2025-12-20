@@ -83,7 +83,7 @@
   background: green;
   border: 1px solid black;
   width: 200px;
-  height: auto;
+  height: auto; 
   flex-direction:column;
   padding:5px 0;
 }
